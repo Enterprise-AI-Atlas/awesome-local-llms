@@ -81,6 +81,7 @@ Applications for chatting with local models through a friendly interface.
 - **[Chatbox](https://github.com/Bin-Huang/chatbox)** `Community` — Cross-platform desktop client for local and remote LLMs.
 - **[Oterm](https://github.com/ggozad/oterm)** `Community` — Terminal client for Ollama with conversation management.
 - **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** `Community` — Frontend for role-play and character-driven chats with local LLM backends.
+- **[Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)** `Community` — Open-source macOS app running local LLM chat via llama.cpp, on-device image generation, whisper transcription, and memory/RAG search entirely on-device with no account or telemetry.
 
 ---
 
