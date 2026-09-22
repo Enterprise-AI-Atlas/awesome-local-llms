@@ -116,6 +116,7 @@ Frameworks for supervised fine-tuning, LoRA/QLoRA, and preference tuning on your
 - **[PEFT](https://github.com/huggingface/peft)** `Official` — Hugging Face parameter-efficient fine-tuning library (LoRA, IA³, adapters).
 - **[TRL](https://github.com/huggingface/trl)** `Official` — Hugging Face transformer reinforcement learning library for SFT, DPO, and PPO.
 - **[bitsandbytes](https://github.com/TimDettmers/bitsandbytes)** `Community` — 8-bit optimizers and 4-bit quantization primitives for local fine-tuning.
+- **[PostTrainLLM](https://github.com/PostTrainLLM/posttrainllm)** `Community` — Mac-local LLM post-training factory and learning lab: reproducible LoRA/distillation recipe contracts, frozen eval gates, and a browser playground on Apple Silicon.
 
 ---
 
