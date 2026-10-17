@@ -100,6 +100,7 @@ Tools for downloading, converting, quantizing, and organizing local models.
 - **[Simon Willison's llm CLI](https://github.com/simonw/llm)** `Community` — Command-line tool for running models via Ollama, OpenAI-compatible APIs, and local plugins.
   - Install: `pip install llm`
 - **[Git LFS](https://git-lfs.com/)** `Official` — Version-control extension used by Hugging Face and other hubs for large model files.
+- **[Local LLM Advisor](https://github.com/mattgrandy/local-llm-advisor)** `Community` — Free web tool that recommends local LLMs and quantizations for your GPU, Mac or RAM using memory-fit and KV-cache math plus measured llama.cpp benchmarks (live at localllmadvisor.com).
 
 ---
 
