@@ -81,6 +81,7 @@ Applications for chatting with local models through a friendly interface.
 - **[Chatbox](https://github.com/Bin-Huang/chatbox)** `Community` — Cross-platform desktop client for local and remote LLMs.
 - **[Oterm](https://github.com/ggozad/oterm)** `Community` — Terminal client for Ollama with conversation management.
 - **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** `Community` — Frontend for role-play and character-driven chats with local LLM backends.
+- **[OpenPilot](https://github.com/ibmshaikh/OpenPilot)** `Community` — Open-source, MIT-licensed desktop AI agent for any OpenAI-compatible model (Ollama, LM Studio, OpenRouter, OpenAI) that asks you to approve shell/file changes; not related to comma.ai.
 
 ---
 
