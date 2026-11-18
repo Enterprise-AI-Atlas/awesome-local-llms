@@ -90,6 +90,7 @@ Tools for downloading, converting, quantizing, and organizing local models.
 
 - **[QuelLLM MCP](https://github.com/MGM-FALCON/quelllm-mcp)** `Community` — Local MCP server for querying open-weight LLM metadata and estimating VRAM, quantization fit, and API versus self-hosted costs; outputs are indicative.
   - Install: `pip install git+https://github.com/MGM-FALCON/quelllm-mcp.git`
+  - Catalog: [quelllm.fr](https://quelllm.fr/)
 - **[Hugging Face Hub CLI](https://huggingface.co/docs/huggingface_hub/en/index)** `Official` — Official CLI and Python library to download and manage models from the Hub.
   - Install: `pip install huggingface_hub`
   - Download: `huggingface-cli download TheBloke/Llama-2-7B-GGUF`
